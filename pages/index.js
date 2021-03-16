@@ -19,8 +19,8 @@ export default function Home() {
           <code>pages/index.js</code>
         </p>
         <p className="description">
-          Go Posts Page
-          <Link href="/posts">
+          Go Posts Page &rarr;
+          <Link href="/posts/first-post">
             <a className="card">Click</a>
           </Link>
         </p>
